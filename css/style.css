@@ -381,9 +381,9 @@ form textarea{
 
 @media (max-width: 970px){
 	:root{
-		--h1-font: 4.2rem;
-	  --h2-font: 2.9rem;
-	  --p-font: 1rem;
+	  	--h1-font: 3.5rem;
+		--h2-font: 2.9rem;
+	  	--p-font: 1rem;
 	}
 	section{
 		padding: 70px 3% 60px;
