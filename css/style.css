@@ -77,10 +77,10 @@ section{
 	justify-content: flex-start;
 }
 .home-text h1{
-	margin: 20px 0;
+	margin: 15px 0;
 	font-size: var(--h1-font);
 	font-weight: bold;
-	line-height: 1.1;
+	line-height: 1;
 	letter-spacing: 2px;
 }
 span{
