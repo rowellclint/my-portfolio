@@ -136,6 +136,7 @@ header.sticky{
 .about-text p{
 	color: var(--second-color);
 	font-size: var(--p-font);
+	font-weight: 500;
 	line-height: 30px;
 	margin-bottom: 2rem;
 	text-align: justify;
