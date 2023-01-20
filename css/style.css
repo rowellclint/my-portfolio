@@ -121,13 +121,13 @@ header.sticky{
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	align-items: center;
-	gap: 1rem;
+	gap: 2rem;
 	margin-bottom: 3rem;
 }
 .about-text h4{
 	margin: 10px 0;
 	color: var(--main-color);
-	font-size: 20px;
+	font-size: 22px;
 	font-weight: 600;
 }
 .about-text h2{
@@ -138,6 +138,7 @@ header.sticky{
 	font-size: var(--p-font);
 	line-height: 30px;
 	margin-bottom: 2rem;
+	text-align: justify;
 }
 .about-gri{
 	display: grid;
@@ -153,7 +154,7 @@ header.sticky{
 .about-img img{
 	height: auto;
 	width: 100%;
-	max-width: 460px;
+	max-width: 540px;
 }
 .main-text{
 	text-align: center;
